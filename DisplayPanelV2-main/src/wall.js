@@ -11,7 +11,7 @@ const wall = {
       offsetTopMillimeters: 0,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/3.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/3.jpg",
     },
 
     2: {
@@ -25,7 +25,7 @@ const wall = {
       offsetTopMillimeters: 0,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/4.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/4.jpg",
     },
     3: {
       displayAreaWidthMillimeters: 1209.6,
@@ -38,7 +38,7 @@ const wall = {
       offsetTopMillimeters: 0,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/9.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/9.jpg",
     },
     4: {
       displayAreaWidthMillimeters: 1209.6,
@@ -51,7 +51,7 @@ const wall = {
       offsetTopMillimeters: 680.4,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/6.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/6.jpg",
     },
     5: {
       displayAreaWidthMillimeters: 1209.6,
@@ -64,7 +64,7 @@ const wall = {
       offsetTopMillimeters: 680.4,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/imag2.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/imag2.jpg",
     },
     6: {
       displayAreaWidthMillimeters: 1209.6,
@@ -77,7 +77,7 @@ const wall = {
       offsetTopMillimeters: 680.4,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/8.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/8.jpg",
     },
     7: {
       displayAreaWidthMillimeters: 1209.6,
@@ -90,7 +90,7 @@ const wall = {
       offsetTopMillimeters: 1360.8,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/5.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/5.jpg",
     },
     8: {
       displayAreaWidthMillimeters: 1209.6,
@@ -103,7 +103,7 @@ const wall = {
       offsetTopMillimeters: 1360.8,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/imag-1.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/imag-1.jpg",
     },
     9: {
       displayAreaWidthMillimeters: 1209.6,
@@ -116,7 +116,7 @@ const wall = {
       offsetTopMillimeters: 1360.8,
       widthPixels: 1920,
       heightPixels: 1080,
-      src: "https://raw.githubusercontent.com/unixgoat/photos/main/7.jpg",
+      src: "https://raw.githubusercontent.com/mAdrian999/POZE/main/7.jpg",
     },
   },
 };
